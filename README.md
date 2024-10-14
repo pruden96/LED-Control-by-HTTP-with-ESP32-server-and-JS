@@ -4,7 +4,7 @@ Este proyecto permite controlar un LED conectado a un ESP32 mediante un cliente 
 
 ## Tecnologías Utilizadas
 
-- ESP32
+- C++ ESP32
 - HTML
 - CSS
 - JavaScript
