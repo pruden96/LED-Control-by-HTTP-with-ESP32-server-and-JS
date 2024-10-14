@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Definir las credenciales de Wi-Fi
-const char* ssid = "PRULAND";
-const char* password = "Huminta24";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxx";
 
 // Inicializar el servidor en el puerto 80
 WebServer server(80);
