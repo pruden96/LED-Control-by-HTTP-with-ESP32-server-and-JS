@@ -1,4 +1,4 @@
-const url = 'http://192.168.3.222/led';
+const url = 'http://<ESP32 IP>/led';
 
 const bulbImage = document.getElementById('bombillo');
 const button = document.getElementById('controlButton');
